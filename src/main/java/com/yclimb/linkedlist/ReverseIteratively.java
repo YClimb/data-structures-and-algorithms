@@ -33,20 +33,29 @@ public class ReverseIteratively {
 
     /**
      * 遍历法：在链表遍历的过程中将指针顺序置换
+     * 0123->3210
      */
     public static Node traverse(Node head) {
         if (head == null || head.getNext() == null) {
             return head;
         }
+        // 0-3
         Node pre = head;
+        // 1-3
         Node cur = head.getNext();
         while (null != cur.getNext()) {
-            Node tmp = cur.getNext();
+            // next:2-3 -> 3
+            Node next = cur.getNext();
+            // cur:1-0-3 -> 2-1 -> 3
             cur.setNext(pre);
+            // pre:1-0-3 -> 2-1 -> 3
             pre = cur;
-            cur = tmp;
+            // cur:2-3 -> 3
+            cur = next;
         }
+        // 3-0-xxx
         cur.setNext(pre);
+        // 3-0,次数使用了pre = head引用，然后3-0后的next=null
         head.setNext(null);
         return cur;
     }
