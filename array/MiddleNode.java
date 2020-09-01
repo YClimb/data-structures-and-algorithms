@@ -1,4 +1,4 @@
-package com.yclimb.array;
+package array;
 
 /**
  * 求数组的中间节点
