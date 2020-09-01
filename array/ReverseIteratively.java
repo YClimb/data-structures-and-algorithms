@@ -1,4 +1,4 @@
-package com.yclimb.array;
+package array;
 
 /**
  * 数组的反转
