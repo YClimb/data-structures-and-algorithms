@@ -1,7 +1,7 @@
-package com.yclimb.queue;
+package queue;
 
 /**
- * 循环队列
+ * 数组实现的循环队列
  *
  * @author yclimb
  * @date 2020/9/1
