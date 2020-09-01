@@ -1,12 +1,11 @@
-package com.yclimb.queue;
+package queue;
 
 /**
- * 普通队列
+ * 用数组实现的队列
  *
  * @author yclimb
  * @date 2020/9/1
  */
-// 用数组实现的队列
 public class ArrayQueue {
     // 数组：items，数组大小：n
     private String[] items;
