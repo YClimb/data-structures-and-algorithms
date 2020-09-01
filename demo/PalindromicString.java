@@ -1,4 +1,4 @@
-package com.yclimb.demo;
+package demo;
 
 /**
  * 回文字符串：是一个正读和反读都一样的字符串。
