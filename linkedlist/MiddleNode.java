@@ -1,4 +1,4 @@
-package com.yclimb.linkedlist;
+package linkedlist;
 
 /**
  * 求链表的中间节点
