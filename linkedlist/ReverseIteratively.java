@@ -1,4 +1,4 @@
-package com.yclimb.linkedlist;
+package linkedlist;
 
 /**
  * 单链表的反转
