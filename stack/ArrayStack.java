@@ -1,4 +1,4 @@
-package com.yclimb.stack;
+package stack;
 
 /**
  * 基于数组实现的顺序栈
