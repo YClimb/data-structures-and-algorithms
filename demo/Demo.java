@@ -1,4 +1,4 @@
-package com.yclimb.demo;
+package demo;
 
 /**
  * model
