@@ -16,6 +16,11 @@ public class BubbleSort {
          * 如果不满足就让它俩互换。
          * 一次冒泡会让至少一个元素移动到它应该在的位置，重复 n 次，就完成了 n 个数据的排序工作。
          */
+        int[] arr = new int[]{1, 3, 4, 2, 5};
+        bubbleSort(arr);
+        for (int i : arr) {
+            System.out.println(i);
+        }
     }
 
     /**
@@ -44,6 +49,37 @@ public class BubbleSort {
             if (!flag) {
                 // 没有数据交换，提前退出
                 break;
+            }
+        }
+    }
+
+    /**
+     * 向下冒泡算法
+     * 算法概要：
+     * 从0开始，用这个元素去跟后面的所有元素比较，如果发现这个元素大于后面的某个元素，则交换。
+     * @param arr a
+     */
+    public static void bubbleSort(int[] arr) {
+        int len = arr.length;
+        if (len == 1) {
+            return;
+        }
+        // 外循环遍历每一个元素
+        for (int i = 0; i < len; i++) {
+            // 内循环将比较前后两个元素大小，前>后，则位置调换
+            /*for (int j = 0; j < i; j++) {
+                if (arr[j] > arr[j + 1]) {
+                    int tmp = arr[j];
+                    arr[j] = arr[j + 1];
+                    arr[j + 1] = tmp;
+                }
+            }*/
+            for (int j = i + 1; j < len; j++) {
+                if (arr[i] > arr[j]) {
+                    int tmp = arr[i];
+                    arr[i] = arr[j];
+                    arr[j] = tmp;
+                }
             }
         }
     }
