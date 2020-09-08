@@ -1,4 +1,4 @@
-package array;
+package hash;
 
 /**
  * 散列表
