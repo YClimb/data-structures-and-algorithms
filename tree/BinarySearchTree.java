@@ -1,4 +1,4 @@
-package search;
+package tree;
 
 /**
  * 二叉查找树/二叉搜索树/二叉排序树
