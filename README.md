@@ -39,6 +39,7 @@
             - PalindromicString                         // 回文字符串：是一个正读和反读都一样的字符串。
         - tree                      // 树
             - BinaryTree                                // 二叉树
+            - BinarySearchTree                          // 二叉查找树
         - .gitignore
         - README.md
         
