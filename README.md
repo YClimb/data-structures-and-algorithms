@@ -40,6 +40,7 @@
         - tree                      // 树
             - BinaryTree                                // 二叉树
             - BinarySearchTree                          // 二叉查找树
+            - RedBlackTree                              // 红黑树
         - .gitignore
         - README.md
         
