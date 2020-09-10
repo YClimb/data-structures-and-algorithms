@@ -27,24 +27,24 @@
             - BinarySearch                              // 二分查找
         - sort                      // 排序
             - BubbleSort                                // 冒泡排序
+            - HeapSort                                  // 堆排序
             - InsertionSort                             // 插入排序
             - LinearSort                                // 线性排序
             - MergeSort                                 // 归并排序
             - Quicksort                                 // 快速排序
             - SelectionSort                             // 选择排序
             - ShellSort                                 // 希尔排序
-            - HeapSort                                  // 堆排序
             - Sorts                                     // 排序总结
         - stack                     // 栈
             - ArrayStack                                // 基于数组实现的顺序栈
         - string                    // 字符串
             - PalindromicString                         // 回文字符串：是一个正读和反读都一样的字符串。
         - tree                      // 树
-            - BinaryTree                                // 二叉树
             - BinarySearchTree                          // 二叉查找树
-            - RedBlackTree                              // 红黑树
-            - RecursionTree                             // 递归树
+            - BinaryTree                                // 二叉树
             - Heap                                      // 堆
+            - RecursionTree                             // 递归树
+            - RedBlackTree                              // 红黑树
         - .gitignore
         - README.md
         
