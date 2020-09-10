@@ -33,6 +33,7 @@
             - Quicksort                                 // 快速排序
             - SelectionSort                             // 选择排序
             - ShellSort                                 // 希尔排序
+            - HeapSort                                  // 堆排序
         - stack                     // 栈
             - ArrayStack                                // 基于数组实现的顺序栈
         - string                    // 字符串
@@ -42,6 +43,7 @@
             - BinarySearchTree                          // 二叉查找树
             - RedBlackTree                              // 红黑树
             - RecursionTree                             // 递归树
+            - Heap                                      // 堆
         - .gitignore
         - README.md
         
