@@ -34,6 +34,7 @@
             - SelectionSort                             // 选择排序
             - ShellSort                                 // 希尔排序
             - HeapSort                                  // 堆排序
+            - Sorts                                     // 排序总结
         - stack                     // 栈
             - ArrayStack                                // 基于数组实现的顺序栈
         - string                    // 字符串
