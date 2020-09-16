@@ -49,6 +49,7 @@
             - Heap                                      // 堆
             - RecursionTree                             // 递归树
             - RedBlackTree                              // 红黑树
+            - Trie                                      // 字典树、前缀树
         - .gitignore
         - README.md
         
