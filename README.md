@@ -27,6 +27,7 @@
             - Recursion                                 // 递归算法
         - search                    // 搜索
             - BinarySearch                              // 二分查找
+            - FirstSearch                               // 深度优先和广度优先搜索算法
         - sort                      // 排序
             - BubbleSort                                // 冒泡排序
             - HeapSort                                  // 堆排序
@@ -41,6 +42,7 @@
             - ArrayStack                                // 基于数组实现的顺序栈
         - string                    // 字符串
             - PalindromicString                         // 回文字符串：是一个正读和反读都一样的字符串。
+            - StringMatching                            // 字符串匹配
         - tree                      // 树
             - BinarySearchTree                          // 二叉查找树
             - BinaryTree                                // 二叉树
