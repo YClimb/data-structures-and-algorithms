@@ -9,7 +9,7 @@
             - GreedyAlgorithm                           // 贪心算法
             - DivideAndConquer                          // 分治算法
             - BacktrackingAlgorithm                     // 回溯算法
-            - DivideAndConquer                          // 动态规划
+            - DynamicProgramming                        // 动态规划
         - array                     // 数组
             - BrokenNumber                              // 断号查询:求len长数组a[]中缺少的顺序数字
             - MiddleNode                                // 求数组的中间节点
