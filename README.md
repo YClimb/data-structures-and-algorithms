@@ -43,6 +43,7 @@
             - SelectionSort                             // 选择排序
             - ShellSort                                 // 希尔排序
             - Sorts                                     // 排序总结
+            - TopologicalSort                           // 拓扑排序(基于有向无环图的一个算法:Kahn/DFS)
         - stack                     // 栈
             - ArrayStack                                // 基于数组实现的顺序栈
         - string                    // 字符串
