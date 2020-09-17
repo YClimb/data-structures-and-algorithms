@@ -44,6 +44,7 @@
             - PalindromicString                         // 回文字符串：是一个正读和反读都一样的字符串。
             - StringMatching                            // 字符串匹配
         - tree                      // 树
+            - AhoCorasick                               // AC 自动机算法
             - BinarySearchTree                          // 二叉查找树
             - BinaryTree                                // 二叉树
             - Heap                                      // 堆
