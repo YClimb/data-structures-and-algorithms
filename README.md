@@ -46,6 +46,7 @@
         - stack                     // 栈
             - ArrayStack                                // 基于数组实现的顺序栈
         - string                    // 字符串
+            - EditDistance                              // 编辑距离：量化两个字符串的相似度（有莱文斯坦距离和最长公共子串长度）
             - PalindromicString                         // 回文字符串：是一个正读和反读都一样的字符串。
             - StringMatching                            // 字符串匹配(BF/RK/BM/KMP/Trie/AC自动机)
         - tree                      // 树
