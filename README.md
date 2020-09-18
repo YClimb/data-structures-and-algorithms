@@ -26,6 +26,8 @@
             - MiddleNode                                // 求链表的中间节点
             - ReverseIteratively                        // 单链表的反转
             - SkipList                                  // 跳表
+        - map                       // 键值对
+            - BitMap                                    // 位图：布隆过滤器(Bloom Filter)
         - queue                     // 队列
             - ArrayQueue                                // 用数组实现的队列
             - CircularQueue                             // 数组实现的循环队列
