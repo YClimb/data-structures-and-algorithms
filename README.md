@@ -12,6 +12,7 @@
             - DynamicProgramming                        // 动态规划
             - ProbabilityStatistics                     // 概率统计：朴素贝叶斯算法
             - ShortestPathAlgorithm                     // 最短路径算法：Dijkstra
+            - VectorSpace                               // 向量空间：欧几里得距离（Euclidean distance）
         - array                     // 数组
             - BrokenNumber                              // 断号查询:求len长数组a[]中缺少的顺序数字
             - MiddleNode                                // 求数组的中间节点
