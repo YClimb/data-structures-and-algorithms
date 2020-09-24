@@ -59,6 +59,7 @@
             - AhoCorasick                               // AC 自动机算法
             - BinarySearchTree                          // 二叉查找树
             - BinaryTree                                // 二叉树
+            - BPlusTree                                 // B+树：mysql 索引
             - Heap                                      // 堆
             - RecursionTree                             // 递归树
             - RedBlackTree                              // 红黑树
