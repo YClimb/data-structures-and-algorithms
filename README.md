@@ -6,10 +6,12 @@
     
     - data-structures-and-algorithms
         - algorithm                 // 数组
-            - GreedyAlgorithm                           // 贪心算法
-            - DivideAndConquer                          // 分治算法
+            - AstarAlgorithm                            // A* 算法：a-star algorithm (静态路网中求解最短路径最有效的直接搜索方法)
             - BacktrackingAlgorithm                     // 回溯算法
+            - DivideAndConquer                          // 分治算法
             - DynamicProgramming                        // 动态规划
+            - GreedyAlgorithm                           // 贪心算法
+            - HeuristicallySearchAlgorithm              // 启发式搜索算法（Heuristically Search Algorithm）
             - ProbabilityStatistics                     // 概率统计：朴素贝叶斯算法
             - ShortestPathAlgorithm                     // 最短路径算法：Dijkstra
             - VectorSpace                               // 向量空间：欧几里得距离（Euclidean distance）
