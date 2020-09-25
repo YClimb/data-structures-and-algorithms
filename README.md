@@ -38,6 +38,7 @@
         - queue                     // 队列
             - ArrayQueue                                // 用数组实现的队列
             - CircularQueue                             // 数组实现的循环队列
+            - Disruptor                                 // 内存消息队列：无锁的并发循环消息队列(Disruptor) 
         - recursion                 // 递归
             - Recursion                                 // 递归算法
         - redis                     // Redis
