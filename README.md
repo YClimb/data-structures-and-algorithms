@@ -41,7 +41,7 @@
         - recursion                 // 递归
             - Recursion                                 // 递归算法
         - redis                     // Redis
-            - Redis                                     // Redis 常用数据类型的数据结构
+            - Redis                                     // Redis 非关系型数据库：常用数据类型的数据结构
         - search                    // 搜索
             - BinarySearch                              // 二分查找
             - FirstSearch                               // 深度优先(DFS)和广度优先(BFS)搜索算法
