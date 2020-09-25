@@ -26,6 +26,8 @@
         - hash                      // 哈希/散列
             - HashAlgorithm                             // 哈希算法
             - HashTable                                 // 散列表/哈希表
+        - index                     // 索引
+            - Index                                     // 索引：Index
         - linkedlist                // 链表
             - MiddleNode                                // 求链表的中间节点
             - ReverseIteratively                        // 单链表的反转
