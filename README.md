@@ -12,6 +12,7 @@
             - DynamicProgramming                        // 动态规划
             - GreedyAlgorithm                           // 贪心算法
             - HeuristicallySearchAlgorithm              // 启发式搜索算法（Heuristically Search Algorithm）
+            - ParallelAlgorithm                         // 并行算法：分治思想多线程并行处理
             - ProbabilityStatistics                     // 概率统计：朴素贝叶斯算法
             - ShortestPathAlgorithm                     // 最短路径算法：Dijkstra
             - VectorSpace                               // 向量空间：欧几里得距离（Euclidean distance）
