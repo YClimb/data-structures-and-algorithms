@@ -5,7 +5,7 @@
 主体结构如下所示：
     
     - data-structures-and-algorithms
-        - algorithm                 // 数组
+        - algorithm                 // 算法
             - AstarAlgorithm                            // A* 算法：a-star algorithm (静态路网中求解最短路径最有效的直接搜索方法)
             - BacktrackingAlgorithm                     // 回溯算法
             - DivideAndConquer                          // 分治算法
